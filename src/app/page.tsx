@@ -147,10 +147,10 @@ export default function LandingPage() {
           useInvertedBackground={false}
           testimonials={[
             {
-              id: "testimonial-1",              title: "Mind-Bending Creativity",              quote: "CMZ's production is absolutely next-level. Every track takes me on a journey—innovative, bold, and refreshingly original.",              name: "Alex Rivera",              role: "Music Producer",              imageSrc: "http://img.b2bpic.net/free-photo/handsome-black-male-dressed-suit-from-wool_613910-15983.jpg"
+              id: "testimonial-1",              title: "Mind-Bending Creativity",              quote: "CMZ's production is absolutely next-level. Every track takes me on a journey—innovative, bold, and refreshingly original.",              name: "Alex Rivera",              role: "Music Producer",              imageSrc: "http://img.b2bpic.net/free-photo/handsome-black-male-dressed-suit-from-wool_613910-15983.jpg?_wi=1"
             },
             {
-              id: "testimonial-2",              title: "Pure Energy",              quote: "The energy in CMZ's live performances is unmatched. You can feel the passion behind every beat and every bar.",              name: "Jordan Lee",              role: "Music Journalist",              imageSrc: "http://img.b2bpic.net/free-photo/confident-businessman-smiling_107420-84734.jpg"
+              id: "testimonial-2",              title: "Pure Energy",              quote: "The energy in CMZ's live performances is unmatched. You can feel the passion behind every beat and every bar.",              name: "Jordan Lee",              role: "Music Journalist",              imageSrc: "http://img.b2bpic.net/free-photo/confident-businessman-smiling_107420-84734.jpg?_wi=1"
             },
             {
               id: "testimonial-3",              title: "Genre-Bending Excellence",              quote: "CMZ refuses to be confined to one genre. That artistic fearlessness is exactly what modern music needs.",              name: "Taylor Kim",              role: "Music Critic",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-studio-portrait-smiling-blonde-female-pink-jacket_613910-12467.jpg"
@@ -159,10 +159,10 @@ export default function LandingPage() {
               id: "testimonial-4",              title: "Inspiring Artist",              quote: "Following CMZ's journey has inspired me to push my own creative boundaries. A true innovator in the scene.",              name: "Morgan Chase",              role: "Emerging Producer",              imageSrc: "http://img.b2bpic.net/free-photo/man-portrait-posing-loft-modern-space_158595-5365.jpg"
             },
             {
-              id: "testimonial-5",              title: "Authentic Connection",              quote: "CMZ connects with fans on a real level. The music feels genuine, purposeful, and deeply resonant.",              name: "Casey Davis",              role: "Music Fan",              imageSrc: "http://img.b2bpic.net/free-photo/handsome-black-male-dressed-suit-from-wool_613910-15983.jpg"
+              id: "testimonial-5",              title: "Authentic Connection",              quote: "CMZ connects with fans on a real level. The music feels genuine, purposeful, and deeply resonant.",              name: "Casey Davis",              role: "Music Fan",              imageSrc: "http://img.b2bpic.net/free-photo/handsome-black-male-dressed-suit-from-wool_613910-15983.jpg?_wi=2"
             },
             {
-              id: "testimonial-6",              title: "Future of Music",              quote: "CMZ represents the future of independent artists. Talented, independent, and unapologetically innovative.",              name: "Riley Mitchell",              role: "Artist Manager",              imageSrc: "http://img.b2bpic.net/free-photo/confident-businessman-smiling_107420-84734.jpg"
+              id: "testimonial-6",              title: "Future of Music",              quote: "CMZ represents the future of independent artists. Talented, independent, and unapologetically innovative.",              name: "Riley Mitchell",              role: "Artist Manager",              imageSrc: "http://img.b2bpic.net/free-photo/confident-businessman-smiling_107420-84734.jpg?_wi=2"
             }
           ]}
         />
