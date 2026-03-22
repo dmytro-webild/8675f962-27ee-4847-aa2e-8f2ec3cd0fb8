@@ -82,7 +82,7 @@ export default function LandingPage() {
       <div id="about" data-section="about">
         <InlineImageSplitTextAbout
           heading={[
-            { type: "text", content: "About CMZ – The Artist Behind the Sound" },
+            { type: "text", content: "About CMZ – The Artist Behind the Sound\n\nCMZ's artistic philosophy centers on breaking genre barriers and creating immersive sonic experiences that transcend traditional music categories. With a journey rooted in experimental production and fearless creative exploration, CMZ has cultivated a unique sound that seamlessly blends electronic innovation with raw emotional authenticity. This commitment to pushing artistic boundaries while maintaining genuine connection with listeners has become the hallmark of everything CMZ creates." },
             { type: "image", src: "http://img.b2bpic.net/free-photo/man-relaxing-by-vaping-from-hookah-bar_23-2149191874.jpg", alt: "CMZ in creative environment" }
           ]}
           useInvertedBackground={false}
