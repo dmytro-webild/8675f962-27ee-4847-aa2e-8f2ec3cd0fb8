@@ -126,7 +126,7 @@ export default function LandingPage() {
       <div id="metrics" data-section="metrics">
         <MetricCardEleven
           title="By the Numbers"
-          description="50% growth in followers over 6 months | Ranked in top 5% independent artists. CMZ's growing impact in the global music scene."
+          description="CMZ's momentum is undeniable. With 50% growth in followers over 6 months and recognition as one of the top 5% independent artists globally, CMZ is rapidly becoming a major force in the music industry. These metrics reflect the power of authentic artistry and dedicated fan engagement."
           textboxLayout="default"
           useInvertedBackground={false}
           animationType="slide-up"
