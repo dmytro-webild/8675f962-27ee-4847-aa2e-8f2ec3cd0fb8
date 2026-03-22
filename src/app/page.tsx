@@ -202,7 +202,6 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterCard
-          logoText="CMZ"
           copyrightText="© 2024 CMZ | Independent Music Artist | All Rights Reserved"
           socialLinks={[
             { icon: Music, href: "https://spotify.com", ariaLabel: "Spotify" },
