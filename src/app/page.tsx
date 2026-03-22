@@ -64,7 +64,7 @@ export default function LandingPage() {
           tagIcon={Music}
           tagAnimation="slide-up"
           buttons={[
-            { text: "Listen on Spotify", href: "https://spotify.com" },
+            { text: "Stream Now", href: "https://spotify.com" },
             { text: "View Gallery", href: "#music" }
           ]}
           buttonAnimation="slide-up"
